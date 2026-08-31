@@ -52,19 +52,6 @@ The analysis is organized into the following sections:
 - **Seaborn** - Statistical data visualization
 - **Jupyter Notebook** - Interactive development environment
 
-## How to Use
-
-1. **Prerequisites**: Install required packages
-   ```bash
-   pip install pandas numpy matplotlib seaborn jupyter
-   ```
-
-2. **Run the Analysis**: Open the notebook in Jupyter
-   ```bash
-   jupyter notebook Messy_Ecommerce_Data_Analysis.ipynb
-   ```
-
-3. **Execute Cells**: Run cells sequentially from top to bottom to see the data cleaning pipeline and analysis results
 
 ## Data Cleaning Steps
 
@@ -94,10 +81,3 @@ The notebook generates:
 - Mean imputation is used for missing numeric values; other approaches can be applied as needed
 - Text columns include leading spaces that are handled during cleaning
 
-## Author
-
-Created for ecommerce data analysis and cleaning practice
-
-## License
-
-Open for educational and commercial use
