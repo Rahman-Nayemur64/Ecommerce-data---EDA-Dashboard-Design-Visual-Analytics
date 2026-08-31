@@ -2,6 +2,9 @@
 
 A comprehensive data cleaning and analysis project for messy ecommerce sales data using Python, Pandas, and visualization libraries.
 
+# Colab link
+https://colab.research.google.com/drive/1bjBY8ht5QvNhqVTC0f1VPJARyoNNrw3n#scrollTo=gs-v7qSn53gS
+
 ## Project Overview
 
 This project demonstrates a complete data cleaning and exploratory data analysis (EDA) workflow on real-world messy ecommerce sales data. The notebook identifies and resolves common data quality issues including missing values, duplicates, inconsistent formatting, and data type mismatches.
